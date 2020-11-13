@@ -10,14 +10,17 @@ teaching_assistants:
   - name: Amirhossein Samavat
     profile_pic: /_images/amir.png    
     
-  - name: Shahrzad Azari
-    profile_pic: /_images/azari.png    
+  - name: Mohammadmahdi Javid
+    profile_pic: /_images/javid.png
 
   - name: Mohammadjavad Mehditabar
     profile_pic : /_images/javad.png  
 
   - name: Babak Behkamkia  
     profile_pic: /_images/babak.png
+
+  - name: Shahrzad Azari
+    profile_pic: /_images/azari.png    
 
   - name: Sahar Mehrabi
     profile_pic: /_images/mehrabi.png
@@ -54,7 +57,3 @@ teaching_assistants:
 
   - name: Zahra Amiri
     profile_pic: /_images/avatar.png
-
-  - name: Mohammadmahdi Javid
-    profile_pic: /_images/javid.png
-    
