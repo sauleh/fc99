@@ -13,11 +13,11 @@ teaching_assistants:
   - name: Mohammadmahdi Javid
     profile_pic: /_images/javid.png
 
-  - name: Mohammadjavad Mehditabar
-    profile_pic : /_images/javad.png  
-
   - name: Babak Behkamkia  
     profile_pic: /_images/babak.png
+    
+  - name: Mohammadjavad Mehditabar
+    profile_pic : /_images/javad.png  
 
   - name: Shahrzad Azari
     profile_pic: /_images/azari.png    
