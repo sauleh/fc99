@@ -53,9 +53,3 @@ Written and programming assignment submission are not accepted after the deadlin
 
 # Attendance Policy
 According to univesity guidlines, students who miss more than 6 sessions are not eligable for a passing grade. University guidelines will be followed. If you cannot attend a session **always** contact the instructor ahead of time with a valid reason. Depending on your reason and record, the instructor may decide to not count your absency for that session.
-
-# TA Classes
-TA Classes will be held on Mondays from 1 till 3 in room -119.
-
-# TA Office Hours
-To Be Announced

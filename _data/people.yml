@@ -41,7 +41,7 @@ teaching_assistants:
     profile_pic: /_images/madani.png
 
   - name: Fatemeh Jalalvand
-    profile_pic: /_images/avatarg.png
+    profile_pic: /_images/avatar.png
   
   - name: Sahand Nazarzadeh
     profile_pic: /_images/avatar.png
@@ -50,8 +50,11 @@ teaching_assistants:
     profile_pic: /_images/avatar.png
 
   - name: Banafsheh Gholinezhad
-    profile_pic: /_images/avatarg.png
+    profile_pic: /_images/avatar.png
 
   - name: Zahra Amiri
-    profile_pic: /_images/avatarg.png
+    profile_pic: /_images/avatar.png
+
+  - name: Mohammadmahdi Javid
+    profile_pic: /_images/javid.png
     
