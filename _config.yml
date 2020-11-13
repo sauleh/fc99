@@ -2,14 +2,14 @@
 title: Iran University of Science and Technology
 course_name: Fundamentals of Computer Programming
 course_description: In this course, we aim to introduce students to programming.
-course_semester: "Fall 2019"
+course_semester: "Fall 2020"
 description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/fc98" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/fc98" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/fc98/syllabus/
+baseurl: "/fc99" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/fc99" # the base hostname & protocol for your site
+syllabus: http://sauleh.github.io/fc99/syllabus/
 githubdir: 
 
 # Author/user information

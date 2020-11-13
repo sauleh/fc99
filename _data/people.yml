@@ -3,21 +3,55 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Amir Mohammad Ehsandar
-    profile_pic: /_images/avatar.png    
 
-  - name: Mohammad Javad Mirshekari
-    profile_pic: /_images/keyvan-mirshekari.jpg
+  - name: Ali Rahnama Alamdari 
+    profile_pic: /_images/ali.png
+
+  - name: Amirhossein Samavat
+    profile_pic: /_images/amir.png    
     
-  - name: Mohammad Mahdi Abdollahpour
-    profile_pic: /_images/avatar.png    
+  - name: Shahrzad Azari
+    profile_pic: /_images/azari.png    
 
-  - name: Milad Esfandiyari
-    profile_pic : /_images/milad-esfandiarifar.jpg  
+  - name: Mohammadjavad Mehditabar
+    profile_pic : /_images/javad.png  
 
-  - name: Sepehr Babapour    
+  - name: Babak Behkamkia  
+    profile_pic: /_images/babak.png
+
+  - name: Sahar Mehrabi
+    profile_pic: /_images/mehrabi.png
+
+  - name: Pariya Fesahat
+    profile_pic: /_images/fesahat.png
+
+  - name: Sara Kodeiri
+    profile_pic: /_images/sara-kodeiri.jpg
+  
+  - name: Masoud Golestaneh
+    profile_pic: /_images/masoud.png
+
+  - name: Bayan Divaniazar
+    profile_pic: /_images/avatarg.png
+
+  - name: Bavan Divaniazar
+    profile_pic: /_images/avatarg.png
+
+  - name: Yasamin Madani
+    profile_pic: /_images/madani.png
+
+  - name: Fatemeh Jalalvand
+    profile_pic: /_images/avatarg.png
+  
+  - name: Sahand Nazarzadeh
     profile_pic: /_images/avatar.png
 
-  - name: Amir Khakpour
-    profile_pic: /_images/khakpour.jpg
+  - name: Armin Gholampour
+    profile_pic: /_images/avatar.png
+
+  - name: Banafsheh Gholinezhad
+    profile_pic: /_images/avatarg.png
+
+  - name: Zahra Amiri
+    profile_pic: /_images/avatarg.png
     
