@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-10-02T8:00:00+4:30
+date: 2020-11-04T8:00:00+5:30
 title: Lab 1
 #slides: /static_files/slides/S1.pdf
 video: https://web.microsoftstream.com/video/c3c79cde-99b5-4fb0-b523-4749188acde3

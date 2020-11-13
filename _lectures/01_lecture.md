@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-09-29T8:00:00+4:30
+date: 2020-11-04T8:00:00+4:30
 title: College Orientation and Student Skills 
 slides: /static_files/slides/S1.pdf
 video: https://web.microsoftstream.com/video/ed7cfecc-841f-4865-8249-a449d279b68d
