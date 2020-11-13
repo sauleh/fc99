@@ -8,7 +8,7 @@ description: |
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/fc99" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/fc99" # the base hostname & protocol for your site
+url: "http://amirsmvt.github.io/fc99" # the base hostname & protocol for your site
 syllabus: http://sauleh.github.io/fc99/syllabus/
 githubdir: 
 
