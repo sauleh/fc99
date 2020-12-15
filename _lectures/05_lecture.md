@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2020-11-10T8:00:00+4:30
-title: Session 5
-slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=lab2.pdf
+title: Session 3
+# slides: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FSlides&files=lab2.pdf
 video: https://web.microsoftstream.com/video/eeb9bfef-fab5-4481-abb0-6dd2320d8774
 # video2: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=lab2b.mp4
 #notes: /static_files/presentations/lec.zip

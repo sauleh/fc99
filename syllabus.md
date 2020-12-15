@@ -6,23 +6,18 @@ permalink: /syllabus/
 
 # Schedule
 
-|Week|Saturday|Monday |    Lecture Topic                  | HW Topic                       |HW Release|Occasion|
-|:--:|:------:|:-----:|:---------------------------------:|:------------------------------:|:--------:|--------|
-| 1  |  6/31  |  7/02 | -                                 | | | University Orientation|
-| 2  |  7/7   |  7/09 | Python:Intro                      | | | |
-| 3  |  7/14  |  7/16 | Python:Math/Input/Output/variables| | | |
-| 4  |  7/21  |  7/23 | Python:Loops/Condition/Stack/Scope| | | |
-| 5  |  7/28  |  7/30 | Python:Debug/Test/Hackathon Intro | | | Saturday Off |
-| 6  |  8/05  |  8/07 | Hackathon Week                    | | | Sunday & Tuesday Off |
-| 7  |  8/12  |  8/14 | Python:Hackathon Presentation     | | | Wednesday Off |
-| 8  |  8/19  |  8/21 | Python:Turtle Graphics Physics    | | | Basic Sceince Midterms |
-| 9  |  8/26  |  8/28 | Python:VPython, More Physcis      | | | Basic Sceince Midterms |
-| 10 |  9/03  |  9/05 | Python: Matplotlib, Math Problems | | | Basic Sceince Midterms |
-| 11 |  9/10  |  9/12 | C:Input/Output/Syntax/VSCode/Debug| Redoing Python Problems in C | | |
-| 12 |  9/17  |  9/19 | C:Unit Testing                    | | | |
-| 13 |  9/24  |  9/26 | C:Functions, Pointers, References | | | |
-| 14 |  9/31  | 10/03 | C:Using STL                       | | | |
-| 15 | 10/08  | 10/10 | C:Practice and Exam               | | | |
+|Week|Sunday  |Tuesday|Thursday |    Lecture Topic                                                               | HW Topic                       |
+|:--:|:------:|:-----:|:-------::-------------------------------------------------------------------------------:|:------------------------------:|
+| 1  |  -     |  -    |  8/15  | Python:Intro                                                                    | | | University Orientation|
+| 2  |  8/18  |  8/20 |  8/22  | Python:Math/Input/Output/variables                                              | | | |
+| 3  |  8/25  |  8/27 |  8/29  | Python:Loops/Condition/Scope/Test                                               | | | |
+| 4  |  9/02  |  9/04 |  9/06  | Python:Formatted Strings/Functional Programming/Sort Algorithm                  | | | |
+| 5  |  9/09  |  9/11 |  9/13  | Python:Dictionary/File Handling/String Manipulation/Python DataStructures/Turtle| | | |
+| 6  |  9/16  |  9/18 |  9/20  | Assembly/CPU registers/Executable Files With Binary Editor                      | | | |
+| 7  |  9/23  |  9/25 |  9/27  | C:Input/Output/Syntax/VSCode/Debug                                              | | | Mid Term Exam |
+| 8  |  9/30  |  10/02|  10/04 | C:Functions, Pointers, References,Unit Testing                                  | | | |
+| 9  |  10/07 |  10/09|  10/11 | C:Using STL                                                                     | | | |
+| 10 |  10/14 |  10/16|  10/18 | C:Practice and Exam                                                             | | | |
 
 
   * A*: Programming Assignments
