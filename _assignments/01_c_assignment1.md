@@ -5,5 +5,5 @@ title: C-Assignment 1
 pdf: /static_files/assignments/CAssignment1.pdf
 attachment: /static_files/assignments/CA1.zip
 #solutions: /static_files/assignments
-due: 2021-1-27T23:59:00+3:30
+due: 2021-1-17T23:59:00+3:30
 ---
